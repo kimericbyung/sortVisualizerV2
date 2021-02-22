@@ -1,0 +1,46 @@
+@import "~bootstrap/scss/bootstrap";
+
+.top-buffer { margin-top:20px; }
+
+.code-block {
+  font-family: monaco, Consolas, Lucida Console, monospace;
+  background-color: #404040;
+  border-radius: 5px;
+}
+
+.code-block-content {
+  color: white;
+  padding: 5px;
+}
+
+.const {
+  color: #000080;
+}
+
+.const-name {
+  color: #569CD6;
+}
+
+.variable-name {
+  color: #9CDCFE;
+}
+
+.logic {
+  color: #B267E6
+}
+
+.function {
+  color: #D7BA7D
+}
+
+.numbers {
+ color: #B5CEA8
+}
+
+h6 {
+  font-size: 12px;
+}
+
+.secret-birthday {
+  font-size: 8px;
+}
